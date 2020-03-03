@@ -8,7 +8,7 @@ The database for this assignment is a simple list of twenty names and addresses,
 JSON
 JSON stands for "JavaScript Object Notation", and it is used as a general-purpose format for many kinds of data, particularly in Web-based applications; again, see the "Data Exchange" lecture notes for more details. 
 
-Running the Program
+## Running the Program
 Before starting program, install the MySQL server on your workstation. First, import the attached "p2_test.sql" database, using the MySQL Administrator or the MySQL.
 To run this program, you'll need Java 8, Netbeans, json simple library. Once you have all these requirements, you can clone this program link in your workstation. Afterwards, you can create a Netbeans project with existing files (i.e. the clone source files).
 The requirements to run this program are as follows:
